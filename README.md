@@ -1,7 +1,6 @@
 # multispectral
 
-This is a convenience package for basic operations on multispectral images that exist as a bunch of 
-files in folders. Makes your lif easy with regular expressions.
+This is a convenience package for basic operations on multispectral images, where the spectral layers are stored as individual image files within some folder. The package was designed with the applilcation area of cultural heritage / manuscript studies in mind.
 
 **CAUTION: very prototypy at the moment, would not recommend use.. yet :)**
 
